@@ -1,0 +1,463 @@
+.main{
+    background-color:white;
+    height: 102px ;
+    width: 100%;
+    display: flex;
+    position:fixed
+
+}
+
+body{
+    margin: 0px;
+}
+
+.logo{
+    width: 80px;
+    
+    padding-top: 38px;
+    cursor: pointer;
+    margin-left: 133px;
+}
+.menu{
+
+width: 50px;
+height: 50px;
+margin-left: 20px;
+margin-top: 19px;
+}
+.deals{
+    
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 19px;
+}
+.logo2{
+
+width: px;
+height: 50px;
+margin-left: 850px;
+margin-top: 37px;
+}
+.sign{
+
+width: 50px;
+height: 50px;
+margin-left: 10px;
+margin-top: 37px;
+font-weight: 800;
+}
+.price{
+    
+width: 30px;
+height: 50px;
+margin-left: 22px;
+margin-top: 23px;
+}
+.logo3{
+width:10 px;
+height: 10px;
+margin-left:-10px;
+margin-top: 25px;
+}
+.image1{
+    width:50px;
+}
+.main2{
+    width: 100%;
+    background-color:#202124;;
+    height: 65px;
+    display: flex;
+    padding-top: 100px;
+}
+.text1{
+    padding-left: 500px;
+    padding-top: 5px;
+    font-family: "National 2 Condensed";
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    
+}
+.button1{
+    background-color:#d01639;
+    color: #fff;
+    border-radius: 50px;
+    width: 145px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 45px;
+    border: none;
+    cursor: pointer;
+    
+}
+button1 :hover{
+    background-color: aqua;
+}
+
+.main3{
+    width: 100%;
+    background-color: #f8f7f5;
+    height: 150px;
+    display: flex;
+}
+.welcome{
+    width: 400px;
+    height: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 200px;
+    margin-top: 40px;
+    color: #202124;
+    font-size: 18px;
+}
+.main4{
+    width: 100%;
+    height:200px;
+
+    display: flex;
+}
+.categories{
+    width: 300px;
+    height: 70px;
+    margin-left: 285px;
+    margin-top: 80px;
+    font-weight:700px;
+
+}
+.main5{
+    width: 100%;
+    height: 680px;
+    
+}
+.firstimg{
+width:100%;
+height: 200px;
+flex-direction: row;
+}
+.img1{
+    height: 200px;
+    width: 270px;
+    margin-left: 280px;
+}
+.img2{
+    height: 200px;
+    width: 270px;
+    margin-left: 19px;
+}
+.img3{
+    height: 200px;
+    width: 270px;
+    margin-left: 19px;
+}
+.img4{
+    height: 200px;
+    width: 270px;
+    margin-left: 19px;
+}
+.firsttext{
+    width: 100%;
+    height: 95px;
+    display: flex;
+    flex-direction: row;
+}
+.t1{
+    color: #202124;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    font-size: larger;
+    margin-left: 310px;
+}
+.t2{
+    color: #202124;
+    font-style: normal;
+    font-size: 12px;
+    font-weight:bolder;
+    margin-left: 150px;
+    font-size: larger;
+}
+.t3{
+    color: #202124;
+    font-style: normal;
+    font-size: 12px;
+    font-weight:bolder;
+    margin-left: 150px;
+    font-size: larger;
+}
+.t4{
+    color: #202124;
+    font-style: normal;
+    font-size: 12px;
+    font-weight:bolder;
+    margin-left: 150px;
+    font-size: larger;
+}
+.secondimg{
+    width:100%;
+    height: 200px;
+    flex-direction: row;
+    }
+    .img5{
+        height: 200px;
+        width: 270px;
+        margin-left: 280px;
+    }
+    .img6{
+        height: 200px;
+        width: 270px;
+        margin-left: 19px;
+    }
+    .img7{
+        height: 200px;
+        width: 270px;
+        margin-left: 19px;
+    }
+    .img8{
+        height: 200px;
+        width: 230px;
+        margin-left: 30px;
+    }
+    .secondtext{
+        width: 100%;
+        height: 95px;
+        display: flex;
+        flex-direction: row;
+    }
+    .t5{
+        color: #202124;
+        font-style: normal;
+        font-size: 12px;
+        font-weight:bolder;
+        margin-left: 360px;
+        font-size: larger;
+    }
+    .t6{
+        color: #202124;
+        font-style: normal;
+        font-size: 12px;
+        font-weight:bolder;
+        margin-left: 150px;
+        font-size: larger;
+    }
+    .t7{
+        color: #202124;
+        font-style: normal;
+        font-size: 12px;
+        font-weight:bolder;
+        margin-left: 150px;
+        font-size: larger;
+    }
+    .t8{
+        color: #202124;
+        font-style: normal;
+        font-size: 12px;
+        font-weight:bolder;
+        margin-left: 190px;
+        font-size:small;
+    }
+    .arrow{
+        width: 50px;
+        height: 30px;
+        margin-top: 6px;
+        margin-left: 10px;
+    }
+    .main6{
+        background-color: #202124;
+        width: 100%;
+        height: 725px;
+    }
+    .line{
+        width: 80px;
+        height: 45px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-left: 50px;
+    }
+    .l1{
+        height: 45px;
+        width: 20px;
+        background-color:red;
+        
+        
+    }
+    .main7{
+        width: 100%;
+        height: 90px;
+        
+        display: flex;
+        flex-direction: row;
+    }
+    .offer{
+        width: 350px;
+        height: 55px;
+        margin-top: 5px;
+        margin-left: 230px;
+        color: #fff;
+    }
+    .viewAll{
+        height: 50px;
+        width: 90px;
+        margin-left: 620px;
+        margin-top: 35px;
+        color: #fff;
+    }
+    .arrow2{
+        width: 50px;
+        height: 30px;
+        margin-top: 50px;
+        margin-left: 10px;
+        color: #fff;
+
+    }
+    .main8{
+        width: 100%;
+        height: 234px;
+        background-color: #fff;
+    }
+    .newimage{
+        background-color: #202124;
+        width: 100%;
+        height: 241px;
+        display: flex;
+        flex-direction: row;
+    }
+    .img11{
+        width: 300px;
+        height: 240px;
+        margin-left:60px;
+    }
+    .img12{
+        width: 300px;
+        margin-left: 40px;
+        height: 240px;
+    }
+    .img13{
+        width: 300px;
+        margin-left: 45px;
+        height: 240px;
+    }
+    .next1{
+        height: 50px;
+        width: 50px;
+        margin-top: 90px;
+        margin-left: 80px;
+        background-color: #f5e3e7;
+         border-radius: 100px;
+         cursor: pointer;
+    }
+    .next2{
+        height: 50px;
+        width: 50px;
+        margin-top: 90px;
+        margin-left:130px;
+        background-color: #d4c8ca;
+        border-radius: 100px;
+        cursor: pointer;
+
+    }
+    .footer{
+       
+        height: 201px;
+        width: auto;
+        padding-top: 92px;
+        display: flex;
+        flex-direction: row;
+    }
+    #kfclogofooter{
+      
+        width: 115px;
+        height: 205px;
+        margin-left: 129px;
+    }
+    .footertext{
+        
+        width: auto;
+        height: 205px;
+        display: flex;
+        flex-direction: row;
+    }
+    .footertext1{
+        
+        width: 150px;
+        height: 205px;
+        padding-left: 39px;
+        list-style-type: none;
+        color: #fff;
+    }
+    .footertext2{
+     
+        width: 150px;
+        height: 205px;
+        padding-left: 6px;
+        list-style-type: none;
+        color: #fff;
+    }
+    .footertext3{
+        
+        width: 162px;
+        height: 205px;
+        list-style-type: none;
+        color: #fff;
+    }
+    .footertext4{
+        
+        width: 150px;
+        height: 205px;
+        list-style-type: none;
+        color: #fff;
+    }
+    .locationkfc{
+        
+        width: 150px;
+        height: 205px;
+    }
+    #store{
+            
+            width: 342px;
+            height: 205px;
+            padding-left: 91px;
+
+        }
+        .logomain{
+            height: 68px;
+            width: 65px;
+        }
+        .loc{
+            height: 13px;
+            width: 13px;
+        }
+        .find{
+            height: 50px;
+            width: 50px;
+            color: #fff;
+        }
+        .google{
+            height: 50px;
+            width: 113px;
+        
+
+        }
+        .apple{
+            height: 50px;
+            width: 113px;
+        }
+        .copy{
+            height: 50px;
+            width: 100%;
+          
+            
+        }
+        .social{
+           
+            width: 7%;
+            margin-left: 1380px;
+            
+        }
+        .copyr{
+            width: 50%;
+            margin-left: 523px;
+            color: #dbdbdb;
+        }
+    
